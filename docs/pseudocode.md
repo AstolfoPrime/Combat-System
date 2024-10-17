@@ -1,4 +1,4 @@
-# Main file
+Main file
 function main
     define character
     print name
@@ -7,7 +7,7 @@ function main
     print armor
     print damage
 
-# TBC file
+TBC file
 class character
     define constructor
         hit points
