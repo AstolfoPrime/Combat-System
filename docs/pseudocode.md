@@ -1,4 +1,5 @@
 Main file
+
 function main
     define character
     print name
@@ -8,6 +9,7 @@ function main
     print damage
 
 TBC file
+
 class character
     define constructor
         hit points
